@@ -1,2 +1,2 @@
-# DE-BasicIO-Lab
+# IDE-BasicIO-Lab
 Initial commit - Basic I/O Program
